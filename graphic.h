@@ -15,5 +15,6 @@ struct Graphic{
     void prepareScene(); 
     void presentScene(); 
 }; 
+
 void foo(); 
 #endif
